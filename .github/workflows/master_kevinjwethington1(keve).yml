@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'kevinjwethington1(keve)'
         slot-name: 'keve'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fa9b4889c14d4cb2bff38e0c1ec89720 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2a7e972365004f54b1a7919aa56bcfa0 }}
